@@ -1,1 +1,1 @@
-# LIRI-bot-2
+# LIRI-bot
