@@ -1,0 +1,22 @@
+{
+  "name": "liri-bot",
+  "version": "1.0.0",
+  "description": "liri bot for displaying tweets,  spotify info and movie info",
+  "main": "liri.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jj99999/LIRI-bot-2.git"
+  },
+  "author": "github.com/jj99999",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jj99999/LIRI-bot-2/issues"
+  },
+  "homepage": "https://github.com/jj99999/LIRI-bot-2#readme",
+  "devDependencies": {
+    "twitter": "^1.4.0"
+  }
+}
